@@ -56,11 +56,15 @@
     <img src="https://img.shields.io/badge/My_Arch_Config-B57EDC?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
+  <a href="https://github.com/8scarletrose813/Buhekz">
+    <img src="https://img.shields.io/badge/My_Godot_Game-800080?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  </a>
   <a href="https://github.com/8scarletrose813/Fantom">
     <img src="https://img.shields.io/badge/My_Godot_Game-800080?style=for-the-badge&logo=godot-engine&logoColor=white" />
   </a>
 
-  <a href="https://github.com/8scarletrose813/Buhekz">
+
+  <a href="https://github.com/8scarletrose813/scarlet_ashen_rose">
     <img src="https://img.shields.io/badge/Frontend_Project-E6E6FA?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>

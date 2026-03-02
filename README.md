@@ -41,7 +41,7 @@
 
 <div align="center">
   <h3>🔮 <font color="#B57EDC">Magic Spells & Tools</font> 🔮</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,godot,cpp,arch,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,godot,py,cpp,arch,figma&theme=dark" />
 </div>
 
 <br />

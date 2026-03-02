@@ -1,80 +1,60 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=B57EDC&height=200&section=header&text=Hello,%20I'm%20(Your_Name)%20💜&fontSize=50&animation=fadeIn&fontAlignY=40" width="100%" />
-  
-  <p><b>👾 Godot Game Dev | ✨ Frontend Enthusiast | ❄️ Arch Linux Architect</b></p>
-  
-  <img src="https://img.shields.io/badge/Status-In%20my%20own%20world-mediumpurple?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vibe-Lavender%20%26%20Tea-B57EDC?style=flat-square" />
-</div>
+  <img src="https://capsule-render.vercel.app/render?type=krrish&color=B57EDC&height=250&section=header&text=LAVENDER%20VIBES%20ONLY%20💜&fontSize=70&animation=twinkling" width="100%" />
 
-<br />
-
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🌙 The Night Owl Manual</h3>
-      <p>
-        I’m a developer who lives for the <b>lavender aesthetic</b> and clean code. 
-        Most of my breakthroughs happen after midnight when the world is quiet and the tea is hot.
-      </p>
-      <ul>
-        <li>🎮 Crafting cozy (and not-so-cozy) worlds in <b>Godot</b>.</li>
-        <li>💻 Frontend tinkerer obsessed with smooth <b>UI/UX</b>.</li>
-        <li>🐧 Spent way too long rice-ing my <b>Arch Linux</b> config.</li>
-        <li>📖 Professional <b>manga enjoyer</b> and lo-fi listener.</li>
-      </ul>
-      <p><i>"I don't have bugs, I have unintended features in my own little world."</i></p>
-    </td>
-    <td width="45%" valign="top">
-      <h3>🛠️ Tech Arsenal</h3>
-      <code><b>Gamedev:</b> Godot Engine, GDScript, C#</code><br />
-      <code><b>Web:</b> React, TypeScript, Tailwind CSS</code><br />
-      <code><b>Environment:</b> Arch Linux (I use Arch btw 💜)</code><br />
-      <code><b>Design:</b> Figma, Aseprite (for pixels)</code>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<div align="center">
-  <h3>✨ Come visit my world:</h3>
-  
-  <a href="LINK_TO_TELEGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-B57EDC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="LINK_TO_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-B57EDC?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="LINK_TO_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-B57EDC?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <p align="center">
-    <br />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Tea%20Cup.png" alt="Tea" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Love%20You%20Gesture.png" alt="Love" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Moon%20Viewing%20Ceremony.png" alt="Moon" width="40" height="40" />
-  </p>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>📂 Featured Projects</h3>
-  <table border="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USER&repo=YOUR_ARCH_CONFIG&theme=dracula&title_color=B57EDC&bg_color=1a1a1a&border_color=B57EDC" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USER&repo=YOUR_GODOT_GAME&theme=dracula&title_color=B57EDC&bg_color=1a1a1a&border_color=B57EDC" /></td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <hr border="1" color="#B57EDC" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USER&color=B57EDC&style=flat-square&label=STARDUST+COLLECTED" />
   <br />
-  <sub>Built with 💜 and lots of Green Tea.</sub>
+
+  <p>
+    <img src="https://img.shields.io/badge/ARCH_LINUX-RICE_MASTER-B57EDC?style=for-the-badge&logo=arch-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/GODOT-CREATOR-800080?style=for-the-badge&logo=godot-engine&logoColor=white" />
+    <img src="https://img.shields.io/badge/FRONTEND-WIZARD-E6E6FA?style=for-the-badge&logo=javascript&logoColor=black" />
+  </p>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6eHpsbmRndm54bmRxeXp4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKMGpxxcaOQIY00/giphy.gif" width="100%" height="150px" style="object-fit: cover; border-radius: 15px; border: 2px solid #B57EDC;" />
+</div>
+
+<br />
+
+## 🌙 NIGHT OWL SYSTEM LOG
+> **System Status:** *Sipping tea while my code is screaming.* 🍵
+
+- **[OS]:** Custom Arch Linux (Everything is purple, obviously).
+- **[Task]:** Building worlds in **Godot** because reality is boring.
+- **[Skills]:** Frontend magic and breaking things until they work.
+- **[Hobby]:** Reading manga while my music is way too loud. 🎧
+
+---
+
+<div align="center">
+  <h3>⚡ RECENT DEPLOYMENTS ⚡</h3>
+  <br />
+  <a href="ССЫЛКА_НА_АРЧ">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ТВОЙ_НИК&repo=АРЧ_РЕПО&theme=dracula&bg_color=2b1b3d&title_color=B57EDC&text_color=E6E6FA&icon_color=B57EDC&border_color=B57EDC&show_owner=false" />
+  </a>
+  <a href="ССЫЛКА_НА_ИГРУ">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ТВОЙ_НИК&repo=ГОДОТ_РЕПО&theme=dracula&bg_color=2b1b3d&title_color=B57EDC&text_color=E6E6FA&icon_color=B57EDC&border_color=B57EDC&show_owner=false" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>✨ CONNECT WITH THE VOID ✨</h3>
+
+  <a href="ТВОЯ_ССЫЛКА">
+    <img src="https://img.shields.io/badge/TELEGRAM-purple?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="ТВОЯ_ССЫЛКА">
+    <img src="https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="ТВОЯ_ССЫЛКА">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="50" />
+  <br />
+  <code>sudo pacman -S happiness</code>
 </div>

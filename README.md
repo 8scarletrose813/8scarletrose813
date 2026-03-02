@@ -1,6 +1,11 @@
 <div align="center">
   <h1>🦋 Scarlet Ashen Rose 🌹</h1>
+  <br />
+  <p style="list-style-type: none; color: #E6E6FA; padding-left: 0;">Tea, tea, come to the rescue☕. But in life, there can never be too much tea☕. 🦋Welcome to my humble profile...🦋</p>
 <br />
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1417904561938763938/1477831250180964513/unnamed.jpg?ex=69a6311a&is=69a4df9a&hm=e3552b71e75964535e78ab62e465eb2d6752bca7e6d2d769a1ffbd9ceb6ff38e&=&format=webp" width="50" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="50" />

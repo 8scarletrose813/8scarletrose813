@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=shining&color=B57EDC&height=200&section=header&text=Scarlet_Ashen_Rose&fontSize=80&animation=twinkling&fontColor=E6E6FA" width="100%" />
 
@@ -41,7 +42,7 @@
 
 <div align="center">
   <h3>✨ <font color="#B57EDC">Magic Spells & Tools</font> ✨</h3>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,html,css,godot,cpp,arch,neovim,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,godot,cpp,arch,figma&theme=dark" />
 </div>
 
 <br />
@@ -76,3 +77,5 @@
   <br />
   <font color="#B57EDC"><b>Scarlet_Ashen_Rose // ✨ Keep Shining ✨</b></font>
 </div>
+
+

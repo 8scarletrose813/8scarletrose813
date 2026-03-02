@@ -71,7 +71,7 @@
 <div align="center">
   <h3>🛸 <font color="#B57EDC">Let's connect in the void</font> 🛸</h3>
   <a href="https://t.me/rosescarlet813"><img src="https://img.shields.io/badge/Telegram-B57EDC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.instagram.com/84r_s48?igsh=MTY5N2ZvbXQyb3hhbQ=="><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.instagram.com/84r_a48?utm_source=qr&igsh=MTY5N2ZvbXQyb3hhbQ=="><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <br><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" width="30" />
 </div>

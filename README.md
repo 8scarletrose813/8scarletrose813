@@ -1,13 +1,5 @@
 <div align="center">
   <h1>🦋 Scarlet Ashen Rose 🌹</h1>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Aesthetic-Lavender%20Night-B57EDC?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-In%20Her%20Own%20World-800080?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/System-Arch%20Linux%20Rice-E6E6FA?style=for-the-badge&logo=arch-linux&logoColor=black" />
-  </p>
-</div>
-
 <br />
 
 <div align="center">
